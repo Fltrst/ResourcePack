@@ -4,8 +4,8 @@
         "particle": "block/hopper_outside",
         "bottom": "block/hopper_outside_bottom",
         "top": "block/hopper_top",
-        "side": "block/hopper_outside_arrow_down",
-        "inside": "block/hopper_inside",
+        "side": "block/hopper_outside_facing_down",
+        "inside": "block/hopper_inside_facing_down",
         "wall": "block/hopper_inside_wall"
     },
     "elements": [
