@@ -1,7 +1,7 @@
 # Resource Pack
 Floateresting's Minecraft resource pack
 ### Content
-##### Texture
+##### Textures
 Block </br>
  - Bedrock </br>
  - Cake </br>
@@ -17,9 +17,15 @@ Gui </br>
 Item </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
 
-##### Model
+##### Models
 Block </br>
  - End Rord </br>
+
+##### Sounds
+Dig </br>
+ - Stone.ogg
+Random  </br>
+ - Bow.ogg
 
 ##### Improvement
  - Different texture for Pumpkin and Melon stem </br>
