@@ -2,6 +2,9 @@
 Floateresting's Minecraft resource pack
 ### Features
 ##### Texture
+GUI </br>
+ - Transparent and dark gui
+Block </br>
  - Bedrock </br>
  - Redstone Dust </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
