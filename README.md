@@ -7,9 +7,10 @@ Floateresting's Minecraft resource pack
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
 ##### Improvement
  - Different texture for Pumpkin and Melon stem </br>
+ - Different texture for kelp at age 25
  - Directional Hopper </br>
- - Direction indicator and update indicator for Observer
- - Water level indicator in Cauldron
+ - Direction indicator and update indicator for Observer </br>
+ - Water level indicator in Cauldron </br>
 ##### Connected Texture Mod (CTM)
- - Coal/Iron/Gold/Diamond/Emerald/Lapis/Redstone/Quartz Ore
- - Coal/Iron/Gold/Diamond/Emerald/Lapis Block
+ - Coal/Iron/Gold/Diamond/Emerald/Lapis/Redstone/Quartz Ore </br>
+ - Coal/Iron/Gold/Diamond/Emerald/Lapis Block </br>
