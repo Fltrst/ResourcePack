@@ -1,4 +1,4 @@
-# MinecraftResourcePack
+# Resource Pack
 Floateresting's Minecraft resource pack
 ### Features
 ##### Texture
