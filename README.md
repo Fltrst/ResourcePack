@@ -19,6 +19,7 @@ Item </br>
  - Direction indicator and update indicator for Observer </br>
  - Water level indicator in Cauldron </br>
  - Food level indicator in Composter </br>
+ - Endless End Rod </br>
 
 ##### Connected Texture Mod (CTM)
  - Coal/Iron/Gold/Diamond/Emerald/Lapis/Redstone/Quartz Ore </br>
