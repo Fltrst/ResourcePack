@@ -1,20 +1,25 @@
 # Resource Pack
 Floateresting's Minecraft resource pack
-### Features
+### Content
 ##### Texture
 Block </br>
  - Bedrock </br>
  - Cake </br>
  - Redstone Dust </br>
  - Wool </br>
+ - Grass and tall grass </br>
 
 Environment </br>
  - Circular sun and moon </br>
 
 Gui </br>
- - Transparent and dark gui
+ - Transparent and dark gui </br>
 Item </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
+
+##### Model
+Block </br>
+ - End Rord </br>
 
 ##### Improvement
  - Different texture for Pumpkin and Melon stem </br>
@@ -23,7 +28,6 @@ Item </br>
  - Direction indicator and update indicator for Observer </br>
  - Water level indicator in Cauldron </br>
  - Food level indicator in Composter </br>
- - Endless End Rod </br>
 
 ##### Connected Texture Mod (CTM)
  - Coal/Iron/Gold/Diamond/Emerald/Lapis/Redstone/Quartz Ore </br>
