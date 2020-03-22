@@ -2,12 +2,13 @@
 Floateresting's Minecraft resource pack
 ### Features
 ##### Texture
-GUI </br>
- - Transparent and dark gui
 Block </br>
  - Bedrock </br>
+ - Cake </br>
  - Redstone Dust </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
+Gui </br>
+ - Transparent and dark gui
 ##### Improvement
  - Different texture for Pumpkin and Melon stem </br>
  - Different texture for kelp at age 25
