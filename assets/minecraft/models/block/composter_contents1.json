@@ -5,7 +5,7 @@
         "top": "block/composter_top",
         "bottom": "block/composter_bottom",
         "wall": "block/composter_inside_wall",
-        "side": "block/composter_side_1",
+        "side": "block/composter_side_level_1",
         "inside": "block/composter_bottom",
         "compost": "block/composter_compost"
     },

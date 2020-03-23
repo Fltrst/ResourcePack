@@ -4,7 +4,7 @@
         "particle": "block/composter_side",
         "top": "block/composter_top",
         "bottom": "block/composter_bottom",
-        "side": "block/composter_side_0",
+        "side": "block/composter_side_level_0",
         "wall": "block/composter_inside_wall",
         "inside": "block/composter_bottom",
         "compost": "block/composter_compost"
