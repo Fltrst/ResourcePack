@@ -3,6 +3,7 @@ Floateresting's Minecraft resource pack
 ### Content
 ##### Textures
 Block </br>
+ - Andesite/Diorite/Granite (less contrast) </br>
  - Bedrock (less noisy) </br>
  - Cake (no cherry at middle) </br>
  - Fire (lower) </br>
@@ -20,7 +21,7 @@ Item </br>
 
 ##### Models
 Block </br>
- - End Rord </br>
+ - End Rord (no purple nub)</br>
 
 ##### Sounds
 Dig </br>
