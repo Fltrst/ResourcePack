@@ -3,11 +3,12 @@ Floateresting's Minecraft resource pack
 ### Content
 ##### Textures
 Block </br>
- - Bedrock </br>
- - Cake </br>
- - Redstone Dust </br>
- - Wool </br>
- - Grass and tall grass </br>
+ - Bedrock (less noisy) </br>
+ - Cake (no cherry at middle) </br>
+ - Fire (lower) </br>
+ - Redstone Dust (cleaner) </br>
+ - Wool (less contrast)</br>
+ - Grass and tall grass (shorter) </br>
 
 Environment </br>
  - Circular sun and moon </br>
@@ -23,9 +24,11 @@ Block </br>
 
 ##### Sounds
 Dig </br>
- - Stone.ogg
+ - stone.ogg
 Random  </br>
- - Bow.ogg
+ - bow.ogg
+Ambient </br>
+ - weather/rain.ogg </br>
 
 ##### Improvement
  - Different texture for Pumpkin and Melon stem </br>
