@@ -18,6 +18,7 @@ Gui </br>
  - Transparent and dark gui </br>
 Item </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
+ - Animated Ender Eye </br>
 
 ##### Models
 Block </br>
