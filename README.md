@@ -36,8 +36,9 @@ Ambient </br>
  - Different texture for kelp at age 25
  - Directional Hopper </br>
  - Direction indicator and update indicator for Observer </br>
- - Water level indicator in Cauldron </br>
- - Food level indicator in Composter </br>
+ - Water level indicator for Cauldron </br>
+ - Food level indicator for Composter </br>
+ - Extend indicator for piston and sticky piston
 
 ##### Connected Texture Mod (CTM)
  - Coal/Iron/Gold/Diamond/Emerald/Lapis/Redstone/Quartz Ore </br>
