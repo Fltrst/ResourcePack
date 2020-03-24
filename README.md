@@ -19,7 +19,8 @@ Gui </br>
 Item </br>
  - Wodden/Stone/Iron/Gold/Diamond tools </br>
  - Animated Ender Eye </br>
-
+Misc </br>
+ - Transparent pumpkin blur </br>
 ##### Models
 Block </br>
  - End Rord (no purple nub)</br>
